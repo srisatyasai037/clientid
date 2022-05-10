@@ -158,7 +158,7 @@ output application/json
 output application/json
 ---
 {
-  result: "succesfully insert the data"
+  result: "succes insert the data"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
